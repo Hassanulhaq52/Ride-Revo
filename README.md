@@ -5,7 +5,7 @@
 # RideRevo  
 ### A Bike Riding and Booking Application for Females only.
 
-> Riderevo is a mobile application developed in Flutter. It is a user-friendly and secure platform designed to 
+> RideRevo is a mobile application developed in Flutter. It is a user-friendly and secure platform designed to 
 empower women by providing them with a convenient and safe means of booking 
 bike rides. The application aims to promote gender equality and encourage more 
 women to embrace biking as a mode of transportation. Through seamless ride 
@@ -36,10 +36,10 @@ The application aims to empower female riders by giving them the freedom to trav
 
 ## Installation
 
-To run Riderevo locally, follow these steps:
+To run RideRevo locally, follow these steps:
 
 1. **Clone the Repository**
-2. **Navigate to the Project Directory**: `cd riderevo`
+2. **Navigate to the Project Directory**: `cd RideRevo`
 3. **Install Dependencies**: `flutter pub get`
 4. **Firebase Config**
    - Create a Firebase project on the [Firebase Console]
@@ -112,7 +112,7 @@ Make sure you have Flutter and Dart installed on your machine.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Riderevo, please follow these guidelines:
+We welcome contributions from the community! If you'd like to contribute to RideRevo, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -123,6 +123,6 @@ Please make sure to test your changes thoroughly before submitting a pull reques
 
 ## Issues
 
-If you encounter any issues with Riderevo or have any feature requests, please open an issue on GitHub. We appreciate your feedback!
+If you encounter any issues with RideRevo or have any feature requests, please open an issue on GitHub. We appreciate your feedback!
 
 
